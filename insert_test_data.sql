@@ -2,4 +2,4 @@
 
 USE berties_books;
 
-INSERT INTO books (name, price)VALUES('Brighton Rock', 20.25),('Brave New World', 25.00), ('Animal Farm', 12.99) ;
+INSERT INTO books (name, price)VALUES('This hoe got roaches in her crib', 20.25),('Old thot next door', 99.99), ('The tale of stinky breezy', 2.99) ;
